@@ -7,7 +7,7 @@ I'm David Johnson and I'm currently learning C Programming on my free time. So i
 
 1. Hello World
 2. Variables
-3  Strings
+3. Strings
 4. If, Else, Else If
 5. Do While
 6. Random Numbers
@@ -16,6 +16,9 @@ I'm David Johnson and I'm currently learning C Programming on my free time. So i
 9. Logical Operators
 10. While Loop
 11. Switch
+12. Arrays
+
+Arrays was the last thing in the tutorial series, so I will continue with the scraps of stuff I keep learning. 
 
 I also will be adding some practice programs.
 

@@ -19,8 +19,6 @@ I'm David Johnson and I'm currently learning C Programming on my free time. So i
 12. Arrays
 13. File Saving
 
-Arrays was the last thing in the tutorial series, so I will continue with the scraps of stuff I keep learning. 
+I will no longer be uploading. Might come back later.
 
-I also will be adding some practice programs.
-
-Last Update 10/11/13
+Last Update 10/18/13
